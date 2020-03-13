@@ -1,0 +1,7 @@
+[07-Dec-2016 19:21:01 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[08-Dec-2016 01:33:18 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[08-Dec-2016 08:12:03 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[08-Dec-2016 16:35:14 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[09-Dec-2016 04:30:04 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[16-Dec-2016 12:33:08 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5
+[19-Dec-2016 13:23:40 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/site/index.php on line 5

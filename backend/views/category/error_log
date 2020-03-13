@@ -1,0 +1,13 @@
+[07-Dec-2016 19:27:33 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/add.php on line 12
+[07-Dec-2016 19:27:44 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/category/view.php on line 9
+[07-Dec-2016 19:28:18 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/edit.php on line 12
+[08-Dec-2016 15:08:13 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/add.php on line 12
+[08-Dec-2016 15:12:00 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/category/view.php on line 9
+[08-Dec-2016 15:15:47 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/edit.php on line 12
+[09-Dec-2016 15:42:11 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/add.php on line 12
+[09-Dec-2016 15:42:14 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/edit.php on line 12
+[09-Dec-2016 15:42:16 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/category/view.php on line 9
+[17-Dec-2016 02:33:47 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/add.php on line 12
+[17-Dec-2016 02:33:55 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/category/edit.php on line 12
+[17-Dec-2016 02:33:58 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/category/view.php on line 9
+[19-Dec-2016 14:11:32 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/category/view.php on line 9

@@ -1,0 +1,22 @@
+[10-Mar-2018 01:55:01 America/New_York] PHP Fatal error:  Class 'backend\models\Contests' not found in /home/jantasteel/public_html/beta/backend/controllers/ReportController.php on line 3083
+[10-Apr-2019 07:02:35 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 130
+[10-Apr-2019 07:03:14 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 133
+[10-Apr-2019 07:03:53 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 139
+[07-Jun-2019 06:55:41 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 139
+[07-Jun-2019 22:59:07 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 132
+[07-Jun-2019 23:00:09 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 134
+[07-Jun-2019 23:58:23 America/Chicago] PHP Fatal error:  Class 'backend\controllers\Floorplan' not found in /home/comforth/public_html/beta/backend/controllers/FloorplanController.php on line 90
+[08-Jun-2019 00:00:54 America/Chicago] PHP Fatal error:  Class 'Banner' not found in /home/comforth/public_html/beta/backend/views/floorplan/add.php on line 29
+[10-Jun-2019 00:22:33 America/Chicago] PHP Fatal error:  Call to a member function formName() on a non-object in /home/comforth/public_html/beta/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2096
+[10-Jun-2019 03:43:19 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 135
+[10-Jun-2019 04:35:06 America/Chicago] PHP Fatal error:  Class 'backend\controllers\NewstGallery' not found in /home/comforth/public_html/beta/backend/controllers/NewsgalleryController.php on line 90
+[10-Jun-2019 04:35:44 America/Chicago] PHP Fatal error:  Class 'backend\controllers\NewstGallery' not found in /home/comforth/public_html/beta/backend/controllers/NewsgalleryController.php on line 90
+[10-Jun-2019 04:36:14 America/Chicago] PHP Fatal error:  Class 'News' not found in /home/comforth/public_html/beta/backend/views/newsgallery/add.php on line 33
+[10-Jun-2019 04:41:20 America/Chicago] PHP Fatal error:  Class 'News' not found in /home/comforth/public_html/beta/backend/views/newsgallery/edit.php on line 19
+[10-Jun-2019 06:29:53 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 135
+[11-Jun-2019 00:26:32 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectamenitiesController.php on line 108
+[11-Jun-2019 06:00:37 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 135
+[12-Jun-2019 00:41:52 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectaddofferController.php on line 113
+[12-Jun-2019 00:50:23 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/comforth/public_html/beta/backend/controllers/ProjectController.php on line 135
+[15-Jul-2019 02:17:59 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on null in /home/comforth/public_html/backend/controllers/ProjectController.php on line 174
+[15-Jul-2019 02:30:40 America/Chicago] PHP Fatal error:  Call to a member function saveAs() on integer in /home/comforth/public_html/backend/controllers/ProjectController.php on line 178

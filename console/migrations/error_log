@@ -1,0 +1,7 @@
+[07-Dec-2016 19:20:16 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[08-Dec-2016 01:35:21 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[08-Dec-2016 07:53:08 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[08-Dec-2016 16:20:06 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[09-Dec-2016 04:31:39 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[16-Dec-2016 12:33:51 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7
+[19-Dec-2016 16:46:20 America/New_York] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/brasslinehirer/public_html/console/migrations/m130524_201442_init.php on line 7

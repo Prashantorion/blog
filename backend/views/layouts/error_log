@@ -1,0 +1,14 @@
+[07-Dec-2016 19:27:10 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[07-Dec-2016 19:27:55 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[08-Dec-2016 01:33:49 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[08-Dec-2016 01:34:29 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[08-Dec-2016 08:34:45 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[08-Dec-2016 08:38:32 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[09-Dec-2016 03:01:18 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[09-Dec-2016 03:05:05 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[09-Dec-2016 15:42:19 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[09-Dec-2016 15:42:22 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[17-Dec-2016 02:34:06 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[17-Dec-2016 02:34:10 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27
+[19-Dec-2016 14:13:08 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/inner.php on line 15
+[19-Dec-2016 14:13:10 America/New_York] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/brasslinehirer/public_html/backend/views/layouts/main.php on line 27

@@ -1,0 +1,19 @@
+Message-ID: <3b20dbddd297292d050477df4eb3a8a3@localhost>
+Date: Wed, 27 Apr 2016 19:14:39 +0200
+Subject: Password Reset For www.tajir.com
+From: info@tajir.com
+To: juzer@100ksolutions.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>You have requested a reset link for the account at www.tajir.com</p>
+                              <p>Below is the link to reset your password.<=
+/p>
+                              <p><a href=3D"http://localhost:81/tajir/backe=
+nd/web/site/password_reset?token=3D2e35fd51284b84758b39a16cc6b5867f_1461777=
+279" >Click Here</a></p>
+                              <p>If you cannot click the link above, copy p=
+aste the below url in your browser.<br/><br/>http://localhost:81/tajir/back=
+end/web/site/password_reset?token=3D2e35fd51284b84758b39a16cc6b5867f_146177=
+7279</p>

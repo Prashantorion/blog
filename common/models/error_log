@@ -1,0 +1,12 @@
+[07-Dec-2016 08:29:31 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24
+[07-Dec-2016 08:31:10 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[07-Dec-2016 16:01:06 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[07-Dec-2016 16:02:07 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24
+[07-Dec-2016 22:16:33 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24
+[07-Dec-2016 22:18:04 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[08-Dec-2016 04:47:45 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24
+[08-Dec-2016 05:29:22 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[09-Dec-2016 04:30:51 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[09-Dec-2016 04:30:54 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24
+[16-Dec-2016 12:33:31 America/New_York] PHP Fatal error:  Class 'yii\base\Model' not found in /home/brasslinehirer/public_html/common/models/LoginForm.php on line 11
+[16-Dec-2016 12:33:33 America/New_York] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/brasslinehirer/public_html/common/models/User.php on line 24

@@ -1,0 +1,11 @@
+[07-Dec-2016 19:26:27 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[07-Dec-2016 19:26:37 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/html.php on line 8
+[08-Dec-2016 01:34:09 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[08-Dec-2016 08:30:58 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[08-Dec-2016 14:49:18 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/html.php on line 8
+[09-Dec-2016 02:57:31 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[09-Dec-2016 15:42:58 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/html.php on line 8
+[09-Dec-2016 15:43:02 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[17-Dec-2016 02:35:27 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/html.php on line 8
+[17-Dec-2016 02:35:33 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8
+[19-Dec-2016 16:44:56 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/common/mail/layouts/text.php on line 8

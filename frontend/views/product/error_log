@@ -1,0 +1,14 @@
+[08-Dec-2016 20:29:41 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/our_products.php on line 10
+[08-Dec-2016 21:40:02 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_lists.php on line 11
+[09-Dec-2016 04:16:58 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/our_products.php on line 10
+[09-Dec-2016 04:24:32 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_lists.php on line 11
+[09-Dec-2016 15:41:45 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_details.php on line 21
+[09-Dec-2016 15:53:11 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/our_products.php on line 10
+[09-Dec-2016 15:53:14 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_details.php on line 21
+[09-Dec-2016 15:53:19 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_lists.php on line 11
+[10-Dec-2016 15:54:39 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/our_products.php on line 10
+[10-Dec-2016 15:58:26 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_lists.php on line 11
+[10-Dec-2016 17:36:48 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_details.php on line 21
+[17-Dec-2016 02:50:06 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/our_products.php on line 10
+[17-Dec-2016 02:50:15 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_details.php on line 21
+[17-Dec-2016 02:50:19 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/product/product_lists.php on line 11

@@ -1,0 +1,14 @@
+[08-Dec-2016 11:09:52 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/credentials.php on line 144
+[08-Dec-2016 20:12:06 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/credentials.php on line 144
+[08-Dec-2016 22:53:52 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/credentials.php on line 144
+[09-Dec-2016 15:52:54 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/account_verification.php on line 144
+[09-Dec-2016 15:52:56 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/award_thank_you.php on line 363
+[09-Dec-2016 15:52:58 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/credentials.php on line 144
+[09-Dec-2016 19:43:53 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/credentials.php on line 144
+[10-Dec-2016 17:10:19 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/award_thank_you.php on line 363
+[10-Dec-2016 23:49:41 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/account_verification.php on line 144
+[11-Dec-2016 07:47:38 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/account_verification.php on line 144
+[11-Dec-2016 14:32:27 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/account_verification.php on line 144
+[12-Dec-2016 14:45:15 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/account_verification.php on line 144
+[17-Dec-2016 02:49:07 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/client_thank_you.php on line 38
+[17-Dec-2016 02:49:12 America/New_York] PHP Fatal error:  Class 'yii' not found in /home/brasslinehirer/public_html/frontend/views/emails/inquiry.php on line 41

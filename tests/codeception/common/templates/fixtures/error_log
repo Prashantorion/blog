@@ -1,0 +1,2 @@
+[10-Dec-2016 11:18:13 America/New_York] PHP Fatal error:  Class 'Yii' not found in /home/brasslinehirer/public_html/tests/codeception/common/templates/fixtures/user.php on line 7
+[18-Dec-2016 01:46:50 America/New_York] PHP Fatal error:  Class 'Yii' not found in /home/brasslinehirer/public_html/tests/codeception/common/templates/fixtures/user.php on line 7

@@ -1,0 +1,281 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.30";s:10:"yiiVersion";s:5:"2.0.7";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.7";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.6.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:15:{s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:58:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-faker";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:66:"/home/brasslinehirer/public_html/vendor/kartik-v/yii2-widget-growl";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:68:"/home/brasslinehirer/public_html/vendor/kartik-v/yii2-widget-depdrop";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:60:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-imagine";}}s:30:"mongosoft/yii2-upload-behavior";a:3:{s:4:"name";s:30:"mongosoft/yii2-upload-behavior";s:7:"version";s:7:"0.1.6.0";s:5:"alias";a:1:{s:15:"@mongosoft/file";s:70:"/home/brasslinehirer/public_html/vendor/mongosoft/yii2-upload-behavior";}}s:30:"karpoff/yii2-crop-image-upload";a:3:{s:4:"name";s:30:"karpoff/yii2-crop-image-upload";s:7:"version";s:7:"0.0.1.0";s:5:"alias";a:1:{s:14:"@karpoff/icrop";s:70:"/home/brasslinehirer/public_html/vendor/karpoff/yii2-crop-image-upload";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:64:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:62:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-bootstrap";}}s:25:"bupy7/yii2-widget-cropbox";a:3:{s:4:"name";s:25:"bupy7/yii2-widget-cropbox";s:7:"version";s:7:"4.1.0.0";s:5:"alias";a:1:{s:14:"@bupy7/cropbox";s:65:"/home/brasslinehirer/public_html/vendor/bupy7/yii2-widget-cropbox";}}s:20:"budyaga/yii2-cropper";a:3:{s:4:"name";s:20:"budyaga/yii2-cropper";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@budyaga/cropper";s:60:"/home/brasslinehirer/public_html/vendor/budyaga/yii2-cropper";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:64:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-codeception";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:58:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:56:"/home/brasslinehirer/public_html/vendor/yiisoft/yii2-gii";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.3.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:65:"/home/brasslinehirer/public_html/vendor/kartik-v/yii2-krajee-base";}}s:20:"yiidoc/yii2-redactor";a:3:{s:4:"name";s:20:"yiidoc/yii2-redactor";s:7:"version";s:7:"2.0.1.0";s:5:"alias";a:1:{s:13:"@yii/redactor";s:1:"/";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:13:{s:14:"content-length";s:4:"1877";s:12:"content-type";s:68:"multipart/form-data; boundary=----WebKitFormBoundary0YxQqK4jEk1qgqA2";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:26:"en-GB,en-US;q=0.8,en;q=0.6";s:13:"cache-control";s:9:"max-age=0";s:10:"connection";s:10:"keep-alive";s:6:"cookie";s:322:"PHPSESSID=hd4eqfdlbos1n00of67sr5j2d2; _csrf=0ffad3d920b5ed2cca212e1bcf42b1198e618271e670965d81f80c7179b20e11a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VTXkJeJjhAIhvlHhelbJFZ5Iw9ICJucf%22%3B%7D; _backendSessionId=qdlv71e9jk0abjsuefubgho9d7; _ga=GA1.2.348031912.1483781300; _gid=GA1.2.1069716325.1493730936";s:4:"host";s:22:"www.brasslinehirer.com";s:6:"origin";s:29:"http://www.brasslinehirer.com";s:7:"referer";s:60:"http://www.brasslinehirer.com/backend/web/product/edit?id=38";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:121:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.6.30";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:8:"Location";s:10:"edit?id=38";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:12:"product/edit";s:6:"action";s:51:"backend\controllers\ProductController::actionEdit()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:39:{s:14:"CONTENT_LENGTH";s:4:"1877";s:12:"CONTENT_TYPE";s:68:"multipart/form-data; boundary=----WebKitFormBoundary0YxQqK4jEk1qgqA2";s:13:"DOCUMENT_ROOT";s:32:"/home/brasslinehirer/public_html";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:26:"en-GB,en-US;q=0.8,en;q=0.6";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_COOKIE";s:322:"PHPSESSID=hd4eqfdlbos1n00of67sr5j2d2; _csrf=0ffad3d920b5ed2cca212e1bcf42b1198e618271e670965d81f80c7179b20e11a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22VTXkJeJjhAIhvlHhelbJFZ5Iw9ICJucf%22%3B%7D; _backendSessionId=qdlv71e9jk0abjsuefubgho9d7; _ga=GA1.2.348031912.1483781300; _gid=GA1.2.1069716325.1493730936";s:9:"HTTP_HOST";s:22:"www.brasslinehirer.com";s:11:"HTTP_ORIGIN";s:29:"http://www.brasslinehirer.com";s:12:"HTTP_REFERER";s:60:"http://www.brasslinehirer.com/backend/web/product/edit?id=38";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:121:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36";s:4:"PATH";s:13:"/bin:/usr/bin";s:12:"QUERY_STRING";s:5:"id=38";s:21:"REDIRECT_QUERY_STRING";s:5:"id=38";s:15:"REDIRECT_STATUS";s:3:"200";s:18:"REDIRECT_UNIQUE_ID";s:24:"WQiMHqL@lSYAAm7OzB4AAAAC";s:12:"REDIRECT_URL";s:25:"/backend/web/product/edit";s:11:"REMOTE_ADDR";s:14:"171.50.207.166";s:11:"REMOTE_PORT";s:5:"62242";s:14:"REQUEST_METHOD";s:4:"POST";s:11:"REQUEST_URI";s:31:"/backend/web/product/edit?id=38";s:15:"SCRIPT_FILENAME";s:54:"/home/brasslinehirer/public_html/backend/web/index.php";s:11:"SCRIPT_NAME";s:22:"/backend/web/index.php";s:11:"SERVER_ADDR";s:14:"162.254.149.38";s:12:"SERVER_ADMIN";s:28:"webmaster@brasslinehirer.com";s:11:"SERVER_NAME";s:22:"www.brasslinehirer.com";s:11:"SERVER_PORT";s:2:"80";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:6:"Apache";s:2:"TZ";s:12:"Asia/Kolkata";s:9:"UNIQUE_ID";s:24:"WQiMHqL@lSYAAm7OzB4AAAAC";s:8:"PHP_SELF";s:22:"/backend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1493732382.289051055908203125;s:12:"REQUEST_TIME";i:1493732382;}s:3:"GET";a:1:{s:2:"id";s:2:"38";}s:4:"POST";a:2:{s:5:"_csrf";s:56:"LWxhR1ZjWjN7ODksHAYQWUUtKC8gDxJbSAADDRA5b3paVSgEHBY5VQ==";s:8:"Products";a:11:{s:6:"cat_id";s:2:"28";s:9:"prod_name";s:40:"Silver Plated SQ. Small Dish Closed View";s:9:"prod_desc";s:158:"<p>Fully integrated in buffet system to hold food at temperatures ranging from 150-180 Fahrenheit, the best temperature to keep the food fresh.<o:p></o:p></p>";s:10:"main_image";s:0:"";s:8:"order_id";s:0:"";s:10:"page_title";s:40:"Silver Plated SQ. Small Dish Closed View";s:10:"meta_title";s:40:"Silver Plated SQ. Small Dish Closed View";s:16:"meta_description";s:40:"Silver Plated SQ. Small Dish Closed View";s:8:"url_name";s:39:"Silver-Plated-SQ-Small-Dish-Closed-View";s:2:"id";s:2:"38";s:8:"added_by";s:1:"1";}}s:6:"COOKIE";a:5:{s:9:"PHPSESSID";s:26:"hd4eqfdlbos1n00of67sr5j2d2";s:5:"_csrf";s:130:"0ffad3d920b5ed2cca212e1bcf42b1198e618271e670965d81f80c7179b20e11a:2:{i:0;s:5:"_csrf";i:1;s:32:"VTXkJeJjhAIhvlHhelbJFZ5Iw9ICJucf";}";s:17:"_backendSessionId";s:26:"qdlv71e9jk0abjsuefubgho9d7";s:3:"_ga";s:26:"GA1.2.348031912.1483781300";s:4:"_gid";s:27:"GA1.2.1069716325.1493730936";}s:5:"FILES";a:1:{s:8:"Products";a:5:{s:4:"name";a:1:{s:10:"main_image";s:0:"";}s:4:"type";a:1:{s:10:"main_image";s:0:"";}s:8:"tmp_name";a:1:{s:10:"main_image";s:0:"";}s:5:"error";a:1:{s:10:"main_image";i:4;}s:4:"size";a:1:{s:10:"main_image";i:0;}}}s:7:"SESSION";a:4:{s:7:"__flash";a:1:{s:7:"success";i:-1;}s:11:"__returnUrl";s:26:"/backend/web/category/view";s:4:"__id";i:1;s:7:"success";a:5:{s:4:"type";s:7:"success";s:8:"duration";i:5000;s:4:"icon";s:10:"fa fa-user";s:7:"message";s:78:"Product Silver Plated SQ. Small Dish Closed View has been updated successfully";s:5:"title";s:0:"";}}}s:3:"log";a:1:{s:8:"messages";a:28:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1493732382.312799930572509765625;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1493732382.3128340244293212890625;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1493732382.31956195831298828125;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1493732382.3231599330902099609375;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1493732382.323729038238525390625;i:4;a:0:{}}i:5;a:5:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1493732382.3264319896697998046875;i:4;a:0:{}}i:6;a:5:{i:0;s:31:"Route requested: 'product/edit'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1493732382.3264620304107666015625;i:4;a:0:{}}i:7;a:5:{i:0;s:26:"Route to run: product/edit";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1493732382.3295838832855224609375;i:4;a:0:{}}i:8;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1493732382.3346478939056396484375;i:4;a:0:{}}i:9;a:5:{i:0;s:34:"SHOW FULL COLUMNS FROM `tbl_users`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.35696506500244140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:10;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=brasslin_website";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1493732382.3570868968963623046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:15;a:5:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_users' AND kcu.table_name = 'tbl_users'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.361404895782470703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:18;a:5:{i:0;s:43:"SELECT * FROM `tbl_users` WHERE `user_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3671538829803466796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:21;a:5:{i:0;s:67:"Running action: backend\controllers\ProductController::actionEdit()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1493732382.37172794342041015625;i:4;a:0:{}}i:22;a:5:{i:0;s:51:"SELECT * FROM `tbl_categories` WHERE `is_deleted`=0";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3725368976593017578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `tbl_categories`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3729069232940673828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_categories' AND kcu.table_name = 'tbl_categories'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3746130466461181640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_products`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.38018703460693359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products' AND kcu.table_name = 'tbl_products'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3818089962005615234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:65:"Failed to set unsafe attribute 'id' in 'backend\models\Products'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1493732382.3823719024658203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:78:"SELECT * FROM `tbl_products_images` WHERE (`prod_id`='38') AND (`type`='Main')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3865139484405517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:44:"SHOW FULL COLUMNS FROM `tbl_products_images`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.387034893035888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products_images' AND kcu.table_name = 'tbl_products_images'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.38835906982421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:44:"SELECT * FROM `tbl_products` WHERE `id`='38'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3893859386444091796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:167;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:50;a:5:{i:0;s:13:"Model Errors ";i:1;i:8;i:2;s:11:"application";i:3;d:1493732382.3913478851318359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:187;s:8:"function";s:5:"trace";s:5:"class";s:11:"yii\BaseYii";s:4:"type";s:2:"::";}}}i:51;a:5:{i:0;s:315:"UPDATE `tbl_products` SET `cat_id`=28, `updated_by`=1, `order_id`=NULL, `page_title`='Silver Plated SQ. Small Dish Closed View', `meta_title`='Silver Plated SQ. Small Dish Closed View', `meta_description`='Silver Plated SQ. Small Dish Closed View', `url_name`='Silver-Plated-SQ-Small-Dish-Closed-View' WHERE `id`=38";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3916759490966796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:189;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:54;a:5:{i:0;s:54:"DELETE FROM `tbl_products_images` WHERE `prod_id`='38'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3928730487823486328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:192;s:8:"function";s:9:"deleteAll";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"::";}}}i:57;a:5:{i:0;s:107:"INSERT INTO `tbl_products_images` (`prod_id`, `prod_image`, `type`) VALUES (38, '8_1481118020.jpg', 'Main')";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.393412113189697265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:199;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:3618848;s:4:"time";d:0.1054198741912841796875;s:8:"messages";a:32:{i:11;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=brasslin_website";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1493732382.35717105865478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:12;a:5:{i:0;s:67:"Opening DB connection: mysql:host=localhost;dbname=brasslin_website";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1493732382.3589980602264404296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:13;a:5:{i:0;s:34:"SHOW FULL COLUMNS FROM `tbl_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3590919971466064453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:14;a:5:{i:0;s:34:"SHOW FULL COLUMNS FROM `tbl_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3601129055023193359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_users' AND kcu.table_name = 'tbl_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3614919185638427734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:17;a:5:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_users' AND kcu.table_name = 'tbl_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3619229793548583984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:43:"SELECT * FROM `tbl_users` WHERE `user_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3672521114349365234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:20;a:5:{i:0;s:43:"SELECT * FROM `tbl_users` WHERE `user_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.367557048797607421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:23;a:5:{i:0;s:51:"SELECT * FROM `tbl_categories` WHERE `is_deleted`=0";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3725969791412353515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:51:"SELECT * FROM `tbl_categories` WHERE `is_deleted`=0";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3728120326995849609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `tbl_categories`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37296390533447265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `tbl_categories`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37401294708251953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_categories' AND kcu.table_name = 'tbl_categories'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37467288970947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_categories' AND kcu.table_name = 'tbl_categories'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3750650882720947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_products`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.380261898040771484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_products`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.381124019622802734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products' AND kcu.table_name = 'tbl_products'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.381866931915283203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products' AND kcu.table_name = 'tbl_products'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3822879791259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:78:"SELECT * FROM `tbl_products_images` WHERE (`prod_id`='38') AND (`type`='Main')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3865559101104736328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:78:"SELECT * FROM `tbl_products_images` WHERE (`prod_id`='38') AND (`type`='Main')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3869609832763671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:44:"SHOW FULL COLUMNS FROM `tbl_products_images`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.387075901031494140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:44:"SHOW FULL COLUMNS FROM `tbl_products_images`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.388195037841796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products_images' AND kcu.table_name = 'tbl_products_images'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.38840007781982421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products_images' AND kcu.table_name = 'tbl_products_images'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.388751983642578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:44:"SELECT * FROM `tbl_products` WHERE `id`='38'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3894169330596923828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:167;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:49;a:5:{i:0;s:44:"SELECT * FROM `tbl_products` WHERE `id`='38'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3896811008453369140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:167;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:52;a:5:{i:0;s:315:"UPDATE `tbl_products` SET `cat_id`=28, `updated_by`=1, `order_id`=NULL, `page_title`='Silver Plated SQ. Small Dish Closed View', `meta_title`='Silver Plated SQ. Small Dish Closed View', `meta_description`='Silver Plated SQ. Small Dish Closed View', `url_name`='Silver-Plated-SQ-Small-Dish-Closed-View' WHERE `id`=38";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.391707897186279296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:189;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:315:"UPDATE `tbl_products` SET `cat_id`=28, `updated_by`=1, `order_id`=NULL, `page_title`='Silver Plated SQ. Small Dish Closed View', `meta_title`='Silver Plated SQ. Small Dish Closed View', `meta_description`='Silver Plated SQ. Small Dish Closed View', `url_name`='Silver-Plated-SQ-Small-Dish-Closed-View' WHERE `id`=38";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3926639556884765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:189;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:54:"DELETE FROM `tbl_products_images` WHERE `prod_id`='38'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3928949832916259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:192;s:8:"function";s:9:"deleteAll";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"::";}}}i:56;a:5:{i:0;s:54:"DELETE FROM `tbl_products_images` WHERE `prod_id`='38'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.393146038055419921875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:192;s:8:"function";s:9:"deleteAll";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"::";}}}i:58;a:5:{i:0;s:107:"INSERT INTO `tbl_products_images` (`prod_id`, `prod_image`, `type`) VALUES (38, '8_1481118020.jpg', 'Main')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3934390544891357421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:199;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:107:"INSERT INTO `tbl_products_images` (`prod_id`, `prod_image`, `type`) VALUES (38, '8_1481118020.jpg', 'Main')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3936169147491455078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:199;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:30:{i:13;a:5:{i:0;s:34:"SHOW FULL COLUMNS FROM `tbl_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3590919971466064453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:14;a:5:{i:0;s:34:"SHOW FULL COLUMNS FROM `tbl_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3601129055023193359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_users' AND kcu.table_name = 'tbl_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3614919185638427734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:17;a:5:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_users' AND kcu.table_name = 'tbl_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3619229793548583984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:43:"SELECT * FROM `tbl_users` WHERE `user_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3672521114349365234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:20;a:5:{i:0;s:43:"SELECT * FROM `tbl_users` WHERE `user_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.367557048797607421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:57:"/home/brasslinehirer/public_html/backend/models/Users.php";s:4:"line";i:86;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:23;a:5:{i:0;s:51:"SELECT * FROM `tbl_categories` WHERE `is_deleted`=0";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3725969791412353515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:51:"SELECT * FROM `tbl_categories` WHERE `is_deleted`=0";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3728120326995849609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `tbl_categories`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37296390533447265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `tbl_categories`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37401294708251953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_categories' AND kcu.table_name = 'tbl_categories'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.37467288970947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_categories' AND kcu.table_name = 'tbl_categories'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3750650882720947265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:125;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_products`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.380261898040771484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_products`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.381124019622802734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products' AND kcu.table_name = 'tbl_products'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.381866931915283203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products' AND kcu.table_name = 'tbl_products'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3822879791259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:130;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:78:"SELECT * FROM `tbl_products_images` WHERE (`prod_id`='38') AND (`type`='Main')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3865559101104736328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:78:"SELECT * FROM `tbl_products_images` WHERE (`prod_id`='38') AND (`type`='Main')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3869609832763671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:44:"SHOW FULL COLUMNS FROM `tbl_products_images`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.387075901031494140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:44:"SHOW FULL COLUMNS FROM `tbl_products_images`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.388195037841796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products_images' AND kcu.table_name = 'tbl_products_images'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.38840007781982421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_products_images' AND kcu.table_name = 'tbl_products_images'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.388751983642578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:44:"SELECT * FROM `tbl_products` WHERE `id`='38'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3894169330596923828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:167;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:49;a:5:{i:0;s:44:"SELECT * FROM `tbl_products` WHERE `id`='38'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1493732382.3896811008453369140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:167;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:52;a:5:{i:0;s:315:"UPDATE `tbl_products` SET `cat_id`=28, `updated_by`=1, `order_id`=NULL, `page_title`='Silver Plated SQ. Small Dish Closed View', `meta_title`='Silver Plated SQ. Small Dish Closed View', `meta_description`='Silver Plated SQ. Small Dish Closed View', `url_name`='Silver-Plated-SQ-Small-Dish-Closed-View' WHERE `id`=38";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.391707897186279296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:189;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:315:"UPDATE `tbl_products` SET `cat_id`=28, `updated_by`=1, `order_id`=NULL, `page_title`='Silver Plated SQ. Small Dish Closed View', `meta_title`='Silver Plated SQ. Small Dish Closed View', `meta_description`='Silver Plated SQ. Small Dish Closed View', `url_name`='Silver-Plated-SQ-Small-Dish-Closed-View' WHERE `id`=38";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3926639556884765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:189;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:54:"DELETE FROM `tbl_products_images` WHERE `prod_id`='38'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3928949832916259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:192;s:8:"function";s:9:"deleteAll";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"::";}}}i:56;a:5:{i:0;s:54:"DELETE FROM `tbl_products_images` WHERE `prod_id`='38'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.393146038055419921875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:192;s:8:"function";s:9:"deleteAll";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"::";}}}i:58;a:5:{i:0;s:107:"INSERT INTO `tbl_products_images` (`prod_id`, `prod_image`, `type`) VALUES (38, '8_1481118020.jpg', 'Main')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3934390544891357421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:199;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:107:"INSERT INTO `tbl_products_images` (`prod_id`, `prod_image`, `type`) VALUES (38, '8_1481118020.jpg', 'Main')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1493732382.3936169147491455078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:74:"/home/brasslinehirer/public_html/backend/controllers/ProductController.php";s:4:"line";i:199;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"59088c1e4e30a";s:3:"url";s:60:"http://www.brasslinehirer.com/backend/web/product/edit?id=38";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:14:"171.50.207.166";s:4:"time";i:1493732382;s:10:"statusCode";i:302;s:8:"sqlCount";i:15;s:9:"mailCount";i:0;}}

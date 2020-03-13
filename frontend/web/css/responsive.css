@@ -1,0 +1,862 @@
+/*start media 1600*/
+@media (max-width: 1600px) {
+    /*Common css starts here*/
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    .home-banner .home-banner-section h3{
+        margin-bottom: 80px;
+        margin-top: 50px;
+    }
+    .home-banner{
+        height: 792px;
+    }
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/   
+    .singleHexaTeam:nth-child(4) {
+        right: -17%;
+        top: 150px;
+    }
+    .singleHexaTeam:nth-child(1) {
+        left: -3%;
+        top: 0;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    /*footer css ends here*/
+}
+/*end media 1600*/
+
+/*start media 1366*/
+@media (max-width: 1366px) {
+    /*Common css starts here*/
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    .home-banner .home-banner-section h3 {
+        margin-bottom: 45px;
+        margin-top: 45px;
+    }
+    .home-banner{
+        height: auto;
+    }
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/
+    .singleHexaTeam {
+        height: 200px;
+        width: 200px;
+    }
+    .singleHexaTeam .tem-promo{
+        width: 180px;
+        height: 180px;
+    }
+    .singleHexaTeam:nth-child(1) {
+        left: 5%;
+        top: 0;
+    }
+    .singleHexaTeam:nth-child(2) {
+        right: 21%;
+        top: 0;
+    }
+    .singleHexaTeam:nth-child(3) {
+        left: 42%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        top: 150px;
+    }
+    .singleHexaTeam:nth-child(4) {
+        right: -8%;
+        top: 150px;
+    }
+    .singleHexaTeam:nth-child(5) {
+        left: 14%;
+        top: 370px;
+    }
+    .singleHexaTeam:nth-child(6) {
+        left: 48%;
+        top: 530px;
+    }
+    .singleHexaTeam:nth-child(7) {
+        right: 5%;
+        top: 397px;
+    }
+    .singleHexaTeam .tem-promo h4{
+        font-size: 15px;
+    }
+    .singleHexaTeam .tem-promo h6{
+        font-size: 10px;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    /*footer css ends here*/
+}
+/*end media 1366*/
+
+
+/*start media 1280*/
+@media (max-width: 1280px) {
+    /*Common css starts here*/
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/
+    .singleHexaTeam:nth-child(4) {
+        right: -5%;
+    }
+    .singleHexaTeam:nth-child(1) {
+        left: 8%;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    /*footer css ends here*/
+}
+/*end media 1280*/
+
+
+/*start media 1024*/
+@media (max-width: 1024px) {
+    /*Common css starts here*/
+    .main-heading .big-heading{
+        font-size: 100px;
+    }
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    header{
+        padding: 15px 30px;
+    }
+    header.fixing nav{
+        margin-top: 20px;
+        display: block;
+    }
+    header.fixing nav ul{
+        overflow: hidden;
+    }
+    header.fixed{
+        padding: 10px 30px;
+    }
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    .home-banner{
+        min-height: inherit;
+    }
+    .home-banner .home-banner-section h3{
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+    .home-banner .down-icon{
+        bottom: 80px;
+    }
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    .portfolio-section{
+        overflow: hidden;
+    }
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/
+    .about-page .about-content {
+        padding: 0 100px;
+    }
+    .singleHexaTeam:nth-child(1) {
+        left: 14%;
+    }
+    .singleHexaTeam:nth-child(2) {
+        right: 0%;
+        top: 0;
+    }
+    .singleHexaTeam:nth-child(3){
+        left: 57%;
+        top: 150px;
+    }
+    .singleHexaTeam:nth-child(4){
+        right: -2%;
+        top: 290px;
+    }
+    .singleHexaTeam:nth-child(5) {
+        left: 14%;
+        top: 300px;
+    }
+    .singleHexaTeam:nth-child(6) {
+        left: 50%;
+        top: 445px;
+    }
+    .singleHexaTeam:nth-child(7) {
+        right: 42%;
+        top: 681px;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    .blog-page .article{
+        width: 42%;
+        margin: 5rem 0 5rem 7%;
+    }
+    .blog-page .article-text{
+        width: 100%;
+    }
+    .blog-page .article:nth-child(3n+1) {
+        margin-left: 7%;
+    }
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    .sos-page .first-ul .first-ul-li{
+        width: 54%;
+    }
+    .sos-page .first-ul .first-ul-li1{
+        height: 431px;
+    }
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    /*footer css ends here*/    
+}
+/*end media 1024*/
+
+
+/*start media 768*/
+@media (max-width: 768px) {
+    /*Common css starts here*/
+    .main-heading .small-heading{
+        font-size: 30px;
+        top: -60px;
+    }
+    .main-heading .big-heading {
+        font-size: 70px;
+    }
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    header.fixing nav{
+        display: none;
+    }
+    header .main-menu-handle, header .main-menu-handle .fa-bars{
+        display: block;
+    }
+    header .main-menu{
+        display: none;
+    }
+    header{
+        height: 63px;
+        padding: 10px 0px;
+        background-color: rgba(0,0,0,1);
+        top: 0;
+    }
+    header .menu{
+        padding: 0 30px;
+    }
+    header.fixed{
+        height: 63px;
+        padding: 10px 0px;
+        background-color: rgba(0,0,0,1);
+    }
+    header img, header.fixed img{
+        width: 120px;
+    }
+    header .mobile-menu.menuactive{
+        margin-top: 10px;
+    }
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    .home-banner .down-icon{
+        width: 60px;
+    }
+    .home-banner, .breadcrumb{
+        margin-top: 63px;
+    }
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    .we-section .round {
+        width: 180px;
+        height: 180px;
+        padding: 30px 30px;
+    }
+    .we-section .round1:before, .we-section .round2:before{
+        right: -80px;
+    }
+    .we-section .round img {
+        width: 80px;
+        height: 70px;
+    }
+    .we-section .round p{
+        font-size: 20px;
+    }
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    .client-case-page .row{
+        margin: 25px 0;
+    }
+    .client-case-page h2{
+        font-size: 25px;
+    }
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/
+    .singleHexaTeam:nth-child(1) {
+        left: 19%;
+    }
+    .singleHexaTeam:nth-child(2) {
+        right: 55%;
+        top: 250px;
+    }
+    .singleHexaTeam:nth-child(3) {
+        left: 87%;
+        top: 0px;
+    }
+    .singleHexaTeam:nth-child(4) {
+        right: 0%;
+        top: 250px;
+    }
+    .singleHexaTeam:nth-child(5) {
+        left: 19%;
+        top: 500px;
+    }
+    .singleHexaTeam:nth-child(6) {
+        left: 74%;
+        top: 500px;
+    }
+    .singleHexaTeam:nth-child(7) {
+        right: 30%;
+        top: 740px;
+    }
+    .about-page .about-content h3{
+        font-size: 18px;
+    }
+    .about-page .about-content {
+        padding: 0 50px;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    .blog-page{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .blog-page .article{
+        margin: 5rem 0 5rem 5%;
+    }
+    .blog-page .article:nth-child(3n+1) {
+        margin-left: 5%;
+    }
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    .sos-page .sos-sections .left-section, .sos-page .sos-sections .right-section{
+        padding: 25px 50px;
+    }
+    .sos-page .technologies-carousel .owl-nav{
+        right: 10%;
+    }
+    .sos-page .first-ul .first-ul-li1 {
+        height: 446px;
+    }
+    .sos-page .first-ul .first-ul-li {
+        width: 56%;
+        margin-right: 20px;
+    }
+    .sos-page .technologies-carousel .owl-next, .sponsors-carousel .owl-next{
+        right: 35px;
+    }
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    .careers-page .uploadresume{
+        max-width: 100%;
+    }
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    .copyright h4, .copyright h5{
+        text-align: center;
+    }
+    footer{
+        height: 440px;
+    }
+    .footer .row {
+        margin-top: 180px;
+    }
+    .policy .row {
+        margin-top: 30px;
+    }
+    .footer .policy ul li:before{
+        left: -15px;
+    }
+    .footer .policy ul li{
+        margin:0 10px;
+    }
+    /*footer css ends here*/
+}
+/*end media 768*/
+
+
+/*start media 320 and 740*/
+@media (min-width: 320px) and (max-width: 740px) {
+    /*Common css starts here*/
+    body{
+        font-size: 14px;
+    }
+    section {
+        padding: 30px 0;
+    }
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+    .breadcrumb{
+        height: 200px;
+        margin-bottom: 0;
+    }
+    .breadcrumb .breadcrumb-sec h2{
+        font-size: 25px;
+    }
+    .wrapper{
+        overflow: hidden;
+    }
+    .main-heading .big-heading {
+        font-size: 60px;
+        min-height: 70px;
+        line-height: 70px;
+    }
+    .main-heading .small-heading {
+        font-size: 25px;
+        top: -50px;
+        left: 30px;
+        width: 250px;
+        line-height: 30px;
+    }
+    .section-title{
+        font-size: 25px;
+    }
+    /*Common css ends here*/
+
+    /*header css starts here*/
+    header .menu {
+        padding: 0 15px;
+    }
+    header .main-menu-handle{
+        top: 15px;
+    }
+    /*header css ends here*/
+
+    /*home-banner css starts here*/
+    .home-banner{
+        background-image: url(../images/home-slider/background1.jpg);
+    }
+    .home-banner .home-banner-section h3{
+        font-size: 25px;
+    }
+    .home-banner .home-banner-section .logo-words h2{
+        font-size: 25px;
+    }
+    .home-banner .home-banner-section .logo-words p{
+        font-size: 10px;
+    }
+    .home-banner .home-banner-section h4{
+        font-size: 25px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .home-banner .down-icon{
+        bottom: 20px;
+        width: 45px;
+    }
+    .home-banner .bounce{
+        font-size: 30px;
+    }
+    /*home-banner css ends here*/
+
+    /*home We Section starts here*/
+    .we-section .round1:before, .we-section .round2:before{
+        content: none;
+    }
+    .we-section .round-text{
+        font-size: 15px;
+    }
+    /*home We Section ends here*/
+
+    /*home portfolio Section starts here*/
+    .portfolio-section .ace_singlePotPortfolio:hover .port-hoverP h4 {
+        font-size: 25px;
+    }
+    .portfolio-section .smallgap.row>[class*=col-] {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .portfolio-section .ace_singlePotPortfolio{
+        margin: 0 0;
+    }
+    /*home portfolio Section ends here*/
+
+    /*home blog Section starts here*/
+    /*home blog Section ends here*/
+
+    /*home-testomonial css starts here*/
+    .testimonial-block,
+    .testimonial-block .inner-box{
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .testimonial-carousel .owl-nav{
+        left: 0;
+        right: 0;
+        max-width: 62px;
+        margin: 0 auto;
+    }
+    .testimonial-block .image-box{
+        position: relative;
+        display: inline-block;
+        margin-bottom: 30px;
+    }
+    .testimonial-block .text{
+        margin-bottom: 20px;
+    }
+    .testimonial-block:before{
+        content: none;
+    }
+    .testimonial-section .testimonial-column .inner-column{
+        padding: 70px 15px;
+        max-width: 100%;
+    }
+    /*home-testomonial css ends here*/
+
+    /*home clients-section css starts here*/
+    .clients-section .sponsors-carousel {
+        margin-top: 0px;
+    }
+    /*home clients-section css ends here*/
+
+    /*about page css starts here*/
+    .about-page .about-content {
+        padding: 0 0px;
+    }
+    .about-page .about-content h3 {
+        font-size: 15px;
+        margin-top: 0;
+    }
+    .team-section {
+        height: 1800px;
+    }
+    .singleHexaTeam{
+        position: relative;
+    }
+    .singleHexaTeam:nth-child(1) {
+        left: 41%;
+    }
+    .singleHexaTeam:nth-child(2) {
+        right: -41%;
+        top: 250px;
+    }
+    .singleHexaTeam:nth-child(3) {
+        left: 69%;
+        top: -180px;
+    }
+    .singleHexaTeam:nth-child(4) {
+        right: -42%;
+        top: 70px;
+    }
+    .singleHexaTeam:nth-child(5) {
+        left: 41%;
+        top: 100px;
+    }
+    .singleHexaTeam:nth-child(6) {
+        left: 41%;
+        top: 130px;
+    }
+    .singleHexaTeam:nth-child(7) {
+        right: -40%;
+        top: 160px;
+    }
+    /*about page css ends here*/
+
+    /*blog page css starts here*/
+    .blog-page .article{
+        width: 90%;
+    }
+    .blog-page .article {
+        margin: 5rem 0 5rem 4%;
+    }
+    .blog-page .article:nth-child(3n+1) {
+        margin-left: 4%;
+    }
+    .blog-detail-page h3{
+        font-size: 20px;
+    }
+    /*blog page css ends here*/
+
+    /*blog-detail page css starts here*/
+    /*blog-detail page css ends here*/
+
+    /*sos-page page css starts here*/
+    .sos-page .sos-sections .left-section, .sos-page .sos-sections .right-section {
+        padding: 25px 20px;
+    }
+    .sos-page .first-ul .first-ul-li, .sos-page .first-ul .first-ul-li1{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .sos-page .first-ul h4{
+        font-size: 15px;
+    }
+    .sos-page{
+        margin-bottom: 40px;
+    }
+    /*sos-page page css ends here*/
+
+    /*case-studies page css starts here*/
+    .client-case-page h2 {
+        font-size: 20px;
+    }
+    .client-case-page .testimonial p{
+        width: 100%;
+    }
+    /*case-studies page css ends here*/
+
+    /*careers page css starts here*/
+    .careers-page p{
+        margin-top: 0 !important;
+    }
+    .careers-page .filename{
+        left: 220px;
+    }
+    /*careers page css ends here*/
+
+    /*contact us page css starts here*/
+    /*contact us page css ends here*/
+
+    /*disclaimer-page css starts here*/
+    /*disclaimer-page css ends here*/
+
+    /*footer css starts here*/
+    footer{
+        padding: 20px 0;
+        height: auto;
+        background-image: none;
+        background-color: #333;
+    }
+    .footer .row {
+        margin-top: 0;
+    }
+    .footer .logo {
+        margin-top: 0;
+    }
+    .footer .logo img{
+        width: 150px;
+        margin: 0 auto;
+    }
+    .footer h4{
+        margin-bottom: 10px;
+        text-align: center;
+        font-size: 15px;
+    }
+    .footer p{
+        text-align: center;
+    }
+    .footer ul.social-icons{
+        text-align: center;
+    }
+    .clients-section {
+        margin-bottom: 40px;
+    }
+    .footer .contact-footer {
+        display: block;
+    }
+    .footer .address {
+        float: none;
+        margin-right: 0;
+    }
+    .footer ul.contact-numbers {
+        margin-top: 20px;
+        text-align: center;
+        float: none;
+    }
+    .footer .policy ul li:last-child:before{
+        content: none;
+    }
+    /*footer css ends here*/
+    
+    /*scroll to top css starts here*/
+    #st-preloader span{
+        font-size: 15px;
+    }
+    /*scroll to top css ends here*/
+}
+/*end media 320 and 740*/

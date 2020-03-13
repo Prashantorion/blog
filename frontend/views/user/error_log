@@ -1,0 +1,12 @@
+[08-Dec-2016 03:45:20 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[08-Dec-2016 03:46:40 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10
+[08-Dec-2016 10:24:28 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[08-Dec-2016 10:32:02 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10
+[08-Dec-2016 17:05:30 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[08-Dec-2016 17:16:51 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10
+[09-Dec-2016 01:11:01 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[09-Dec-2016 01:18:03 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10
+[09-Dec-2016 15:53:22 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10
+[09-Dec-2016 15:53:26 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[17-Dec-2016 01:45:57 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/settings.php on line 10
+[17-Dec-2016 02:50:28 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/frontend/views/user/register.php on line 10

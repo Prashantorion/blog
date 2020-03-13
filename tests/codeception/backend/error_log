@@ -1,0 +1,4 @@
+[09-Dec-2016 03:35:21 America/New_York] PHP Fatal error:  Class 'Codeception\Configuration' not found in /home/brasslinehirer/public_html/tests/codeception/backend/_bootstrap.php on line 7
+[09-Dec-2016 15:53:53 America/New_York] PHP Fatal error:  Class 'Codeception\Configuration' not found in /home/brasslinehirer/public_html/tests/codeception/backend/_bootstrap.php on line 7
+[10-Dec-2016 16:17:21 America/New_York] PHP Fatal error:  Class 'Codeception\Configuration' not found in /home/brasslinehirer/public_html/tests/codeception/backend/_bootstrap.php on line 7
+[17-Dec-2016 01:46:06 America/New_York] PHP Fatal error:  Class 'Codeception\Configuration' not found in /home/brasslinehirer/public_html/tests/codeception/backend/_bootstrap.php on line 7

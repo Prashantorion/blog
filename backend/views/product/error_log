@@ -1,0 +1,14 @@
+[07-Dec-2016 19:26:48 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/add.php on line 12
+[07-Dec-2016 19:26:59 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/edit.php on line 12
+[07-Dec-2016 19:27:23 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/product/view.php on line 10
+[08-Dec-2016 14:53:05 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/add.php on line 12
+[08-Dec-2016 15:00:39 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/edit.php on line 12
+[08-Dec-2016 15:04:26 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/product/view.php on line 10
+[09-Dec-2016 15:42:39 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/add.php on line 12
+[09-Dec-2016 15:42:42 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/edit.php on line 12
+[09-Dec-2016 15:42:46 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/product/view.php on line 10
+[17-Dec-2016 02:34:52 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/add.php on line 12
+[17-Dec-2016 02:34:58 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/edit.php on line 12
+[17-Dec-2016 02:35:02 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/product/view.php on line 10
+[19-Dec-2016 13:23:14 America/New_York] PHP Fatal error:  Class 'yii\bootstrap\ActiveForm' not found in /home/brasslinehirer/public_html/backend/views/product/edit.php on line 12
+[19-Dec-2016 13:24:54 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/brasslinehirer/public_html/backend/views/product/view.php on line 10

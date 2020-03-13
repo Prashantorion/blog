@@ -1,0 +1,22 @@
+[10-Dec-2016 01:06:15 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/acceptance.php on line 7
+[10-Dec-2016 01:06:18 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_FILE - assumed 'FRONTEND_ENTRY_FILE' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 2
+[10-Dec-2016 01:06:18 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_URL - assumed 'FRONTEND_ENTRY_URL' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 3
+[10-Dec-2016 01:06:18 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 8
+[10-Dec-2016 01:06:21 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[12-Dec-2016 20:18:11 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[13-Dec-2016 04:11:30 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[13-Dec-2016 10:03:30 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[14-Dec-2016 10:45:35 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[14-Dec-2016 14:02:01 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/acceptance.php on line 7
+[14-Dec-2016 14:24:43 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_FILE - assumed 'FRONTEND_ENTRY_FILE' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 2
+[14-Dec-2016 14:24:43 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_URL - assumed 'FRONTEND_ENTRY_URL' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 3
+[14-Dec-2016 14:24:43 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 8
+[17-Dec-2016 12:37:40 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/acceptance.php on line 7
+[17-Dec-2016 12:37:44 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_FILE - assumed 'FRONTEND_ENTRY_FILE' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 2
+[17-Dec-2016 12:37:44 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_URL - assumed 'FRONTEND_ENTRY_URL' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 3
+[17-Dec-2016 12:37:44 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 8
+[17-Dec-2016 12:37:47 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/unit.php on line 6
+[23-Dec-2016 15:47:54 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/acceptance.php on line 7
+[24-Dec-2016 02:57:34 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_FILE - assumed 'FRONTEND_ENTRY_FILE' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 2
+[24-Dec-2016 02:57:34 America/New_York] PHP Notice:  Use of undefined constant FRONTEND_ENTRY_URL - assumed 'FRONTEND_ENTRY_URL' in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 3
+[24-Dec-2016 02:57:34 America/New_York] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/brasslinehirer/public_html/tests/codeception/config/frontend/functional.php on line 8

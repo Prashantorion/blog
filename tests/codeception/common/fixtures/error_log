@@ -1,0 +1,7 @@
+[10-Dec-2016 01:05:47 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[17-Dec-2016 12:37:15 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[22-Dec-2016 01:31:25 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[22-Dec-2016 08:16:14 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[22-Dec-2016 14:23:13 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[22-Dec-2016 17:28:36 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
+[24-Dec-2016 06:44:34 America/New_York] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/brasslinehirer/public_html/tests/codeception/common/fixtures/UserFixture.php on line 11
